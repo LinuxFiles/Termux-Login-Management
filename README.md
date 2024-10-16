@@ -37,19 +37,19 @@ Choose appropriate command
 **Debian-Termux.sh**
 
 ```
-wget https://raw.githubusercontent.com/YasinAtLinux/Termux-Debian-Login/main/SetupScripts/Debian-Termux.sh
+wget https://raw.githubusercontent.com/LinuxFiles/Termux-Login-Management/main/SetupScripts/Debian-Termux.sh
 ```
 
 **Debian-Void-Termux.sh**
 
 ```
-wget https://raw.githubusercontent.com/YasinAtLinux/Termux-Debian-Login/main/SetupScripts/Debian-Void-Termux.sh
+wget https://raw.githubusercontent.com/LinuxFiles/Termux-Login-Management/main/SetupScripts/Debian-Void-Termux.sh
 ```
 
 **Debian-Arch-Termux.sh**
 
 ```
-wget https://raw.githubusercontent.com/YasinAtLinux/Termux-Debian-Login/main/SetupScripts/Debian-Arch-Termux.sh
+wget https://raw.githubusercontent.com/LinuxFiles/Termux-Login-Management/main/SetupScripts/Debian-Arch-Termux.sh
 ```
 
 ## Step 2 : Make the Script Executable
